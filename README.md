@@ -1,2 +1,9 @@
-# Model-Development
-Stores machine learning, statistical models, and more for climate and energy analytics, as well as training datasets, training models, evaluation code, etc.
+# **Model Development Repository**
+
+## **Purpose**
+This repository contains machine learning models and algorithms used to predict energy consumption and greenhouse gas emissions based on environmental factors. 
+
+### **Key Responsibilities**:
+- Developing and training predictive models
+- Implementing machine learning algorithms
+- Evaluating model performance and accuracy
